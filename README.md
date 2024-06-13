@@ -1,6 +1,6 @@
 ![Electronic Golf Pole](https://github.com/sourceduty/Electronic_Flagpole/assets/123030236/188484eb-2979-406f-94f4-be64220087ce)
 
-> An electronic flagpole equipped with electronic sensors and a display system that provides real-time data on golf ball location, hole statistics, and player performance.
+> An electronic flagpole equipped with sensors and a display system that provides real-time data on golf ball location, hole statistics, and player performance.
 
 #
 
