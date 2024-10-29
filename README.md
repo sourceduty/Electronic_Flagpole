@@ -18,7 +18,7 @@ From a player's perspective, the Electronic Golf Flagpole offers a wealth of dat
 ![Bee The Ball](https://github.com/user-attachments/assets/70ded768-cc88-4378-8a33-f811652a4829)
 
 #
-> Alex: "*A golf coarse flagpole with a camera would record a unique POV.*"
+> Alex: "*A golf course flagpole with a camera would record a unique POV.*"
 
 #
 ### Related Links
